@@ -17,7 +17,10 @@ Disclosure of it would cause damage to national security
 - Intelligence reports
 
 #### Sensitive
-Disclosure of it would cause limited damage to national security
+Data is not classified and disclosure of it would cause limited damage to national security
+- For Official Use Only (FOUO)
+- Limited Official Use (LOU)
+- Official Use Only (OUO)
 
 #### Unclassified
 Data is not classified and non-sensitive
