@@ -9,15 +9,15 @@ Data requires the highest degree of protection, and disclosure of it would cause
 - Policy for conducting intelligence
 
 #### Secret
-Data requires the highest degree of protection and disclosure of it would cause serious damage to national security 
+Disclosure of it would cause serious damage to national security 
 - Indications of weakness
 
 #### Confidential
-Data is not classified as national security data, and disclosure of it would cause damage to national security
+Disclosure of it would cause damage to national security
 - Intelligence reports
 
 #### Sensitive
-Data is classified, and disclosure of it would cause undesirable effect to national security
+Disclosure of it would cause limited damage to national security
 
 #### Unclassified
 Data is not classified and non-sensitive
