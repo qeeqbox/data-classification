@@ -5,7 +5,7 @@ Data classification defines and categorizes data according to its type, sensitiv
 
 ## Military
 #### Top Secret
-Data requires the highest degree of protection, and disclosure of it would cause severe damage to national security 
+Data requires the highest degree of protection, and disclosure of it would cause exceptionally grave damage to national security 
 - Policy for conducting intelligence
 
 #### Secret
