@@ -3,6 +3,14 @@
 ## Data Classification
 Data classification defines and categorizes data according to its type, sensitivity, and value. It helps ensure data confidentiality/integrity and makes it easier to access (Organizations usually design their data classification models and categories)
 
+## Data Type
+#### Content-based
+Classification based on reviewing each piece of data and looking for sensitive information
+#### Context-based
+Classification based on metadata and environmental information (Indirect indicators of sensitive information) like the application or the person that created the document 
+#### User-base
+Classification based on a person's discretion and knowledge (User needs to know what's inside the document)
+
 ## Military
 #### Top Secret
 Data requires the highest degree of protection, and disclosure of it would cause exceptionally grave damage to national security 
