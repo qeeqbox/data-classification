@@ -33,7 +33,7 @@ Data is not classified and disclosure of it would cause limited damage to nation
 #### Unclassified
 Data is not classified and non-sensitive
 
-## Commerical
+## Commercial
 #### Restricted
 High sensitive data and access is restricted to specific individuals or authorized third parties (disclosure to it would lead to permanent damage)
 - SSN
